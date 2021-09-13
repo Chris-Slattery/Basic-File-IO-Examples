@@ -1,0 +1,1 @@
+Test for copying contents of input file to output file 
